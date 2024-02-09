@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Julianrapanelli, from Argentina!
-- 👀 I’m interested in web development and cibersecurity.
-- 🌱 I’m currently learning html, css and javascript.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: 
-
+- 👀 I’m interested in web development, data and cibersecurity.
+- 🌱 I’m currently learning python, Power BI, excel, SQL, network infrasrtucture, cibersecurity...
